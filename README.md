@@ -36,10 +36,7 @@ tive | 2016.07 - |
 물외한인 | 2016.07 - |
 4계절 | - |
 
-### Details
-작성 중...
-
-#### Adagio ( - 2017-02)
+### Adagio ( - 2017-02)
 Date | URL
 -----|-----
 2016.06 | http://cafe.naver.com/minecraftdev/5355
@@ -47,7 +44,7 @@ Date | URL
 2016.08 | http://cafe.naver.com/minecraftdev/5686
 2016.09 | http://cafe.naver.com/minecraftdev/5786
 
-#### Astro ( - )
+### Astro ( - )
 Date | URL
 -----|-----
 2016.06 | http://cafe.naver.com/minecraftdev/5345
@@ -56,20 +53,24 @@ Date | URL
 2016.08 | http://cafe.naver.com/minecraftdev/5676
 2016.09 | http://cafe.naver.com/minecraftdev/5705
 
-#### Bleeding Edge (2016.07(ReDev 편입) - 2016.08)
+### Bleeding Edge (2016.07(ReDev 편입) - 2016.08)
 Date | URL
 -----|-----
 2016.07 | X
 2016.08 | X
 
-#### Blue Duck(=포도씨) (2016.02 - 2016.08) [자퇴]
+### Blue Duck(=포도씨) (2016.02 - 2016.08) [자퇴]
 Date | URL
 -----|-----
 2016.06 | http://cafe.naver.com/minecraftdev/5441
 2016.07 | http://cafe.naver.com/minecraftdev/5587
 2016.08 | http://cafe.naver.com/minecraftdev/5693
 
-#### Indvel (2016.07 - 2017.01) [자퇴]
+> 요즘 프로그래밍에 흥미가 떨어지고 있다…. 이게 집착으로 조금씩 하는 것인지 부심이라도 부리고 싶어서 아직 매달리는지 모르겠다.
+> 조금 쉬다 돌아오든…. 계속 쉬든 혼자 놀든 할 거 같다.
+> 그럼 안녕 여러분
+
+### Indvel (2016.07 - 2017.01) [자퇴]
 Date | URL
 -----|-----
 2016.07 | http://cafe.naver.com/minecraftdev/5475
@@ -77,12 +78,14 @@ Date | URL
 2016.08 | http://cafe.naver.com/minecraftdev/5682
 2016.09 | http://cafe.naver.com/minecraftdev/5797
 
-#### Mine Star ( - 2016.06)
+> 학업 문제도 조금 있지만, 그냥 거기 있는 몇몇 사람들이 싫음. 갑자기 나가서 미안하다만, 다시 올 수 있으면 카톡 하겠음.
+
+### Mine Star ( - 2016.06)
 Date | URL
 -----|-----
 2016.06 | X
 
-#### PlanP ( - )
+### PlanP ( - )
 Date | URL
 -----|-----
 2016.06 | http://cafe.naver.com/minecraftdev/5433
@@ -90,7 +93,7 @@ Date | URL
 2016.08 | http://cafe.naver.com/minecraftdev/5685
 2016.09 | http://cafe.naver.com/minecraftdev/5796
 
-#### Redstone ( - )
+### Redstone ( - )
 Date | URL
 -----|-----
 2016.06 | http://cafe.naver.com/minecraftdev/5427
@@ -98,7 +101,7 @@ Date | URL
 2016.08 | http://cafe.naver.com/minecraftdev/5683
 2016.09 | http://cafe.naver.com/minecraftdev/5787
 
-#### Retro(=Seize) (2016.02 - 2016.10)
+### Retro(=Seize) (2016.02 - 2016.10)
 Date | URL
 -----|-----
 2016.06 | http://cafe.naver.com/minecraftdev/5444
@@ -106,20 +109,20 @@ Date | URL
 2016.08 | http://cafe.naver.com/minecraftdev/5691
 2016.09 | X
 
-#### Rigel (2017.01 - 2017.02)
+### Rigel (2017.01 - 2017.02)
 Date | URL
 -----|-----
 2017.01 | X
 2017.02 | X
 
-#### Scripter (2016.07 - )
+### Scripter (2016.07 - )
 Date | URL
 -----|-----
 2016.07 | http://cafe.naver.com/minecraftdev/5555
 2016.08 | http://cafe.naver.com/minecraftdev/5694
 2016.09 | http://cafe.naver.com/minecraftdev/5799
 
-#### Suntain ( - 2016.09)
+### Suntain ( - 2016.09)
 Date | URL
 -----|-----
 2016.06 | http://cafe.naver.com/minecraftdev/5391
@@ -127,21 +130,21 @@ Date | URL
 2016.08 | X
 2016.09 | X
 
-#### Suny (2016.02 - 2016.08)
+### Suny (2016.02 - 2016.08)
 Date | URL
 -----|-----
 2016.06 | http://cafe.naver.com/minecraftdev/5446
 2016.07 | X
 2016.08 | X
 
-#### tive (2016.07 - )
+### tive (2016.07 - )
 Date | URL
 -----|-----
 2016.07 | http://cafe.naver.com/minecraftdev/5490
 2016.08 | http://cafe.naver.com/minecraftdev/5633
 2016.09 | http://cafe.naver.com/minecraftdev/5770
 
-#### 공백 (2016.02 - 2017.02)
+### 공백 (2016.02 - 2017.02)
 Date | URL
 -----|-----
 2016.06 | http://cafe.naver.com/minecraftdev/5413
@@ -150,7 +153,7 @@ Date | URL
 2016.08 | http://cafe.naver.com/minecraftdev/5687
 2016.09 | http://cafe.naver.com/minecraftdev/5798
 
-#### 만동이 ( - )
+### 만동이 ( - )
 Date | URL
 -----|-----
 2016.06 | http://cafe.naver.com/minecraftdev/5411
@@ -158,14 +161,14 @@ Date | URL
 2016.08 | http://cafe.naver.com/minecraftdev/5690
 2016.09 | http://cafe.naver.com/minecraftdev/5788
 
-#### 물외한인 (2016.07 - )
+### 물외한인 (2016.07 - )
 Date | URL
 -----|-----
 2016.07 | X
 2016.08 | http://cafe.naver.com/minecraftdev/5692
 2016.09 | X
 
-#### 4계절 ( - )
+### 4계절 ( - )
 Date | URL
 -----|-----
 2016.06 | http://cafe.naver.com/minecraftdev/5408
