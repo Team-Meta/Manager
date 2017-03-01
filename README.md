@@ -2,7 +2,7 @@
 ## MDS Public Developers' Team
 
 ## About
-Meta는 2016년 청소년 개발자를 주축으로 설립되었으며, Team IO, Object Studio의 역사를 이어받고 있습니다.
+Meta는 2016년 청소년 개발자를 주축으로 설립되었으며, Team IO, Object Studio, Team LeveL의 역사를 이어받고 있습니다.
 
 ## Members
 - Astro
@@ -14,6 +14,18 @@ Meta는 2016년 청소년 개발자를 주축으로 설립되었으며, Team IO,
 - 물외한인
 
 ## History
+### Milestone
+Date | Description
+-----|-------------
+2016.01.20 | Meta 설립
+           | 자율 실적제 시행
+2016.02.03 | 1차 공채
+2016.05.28 | 의무 실적제 시행
+2016.06.14 | 2차 공채
+2016.12.20 | 3차 공채
+2017.01.20 | Meta 1주년
+2017.02.05 | Adagio 팀장 탄핵
+
 ### Memebers
 Name | Date | Type
 -----|------|------
