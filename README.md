@@ -10,7 +10,7 @@ Meta는 2016년 청소년 개발자를 주축으로 설립되었으며, Team IO,
 
 ## Members
 - Astro
-- PlanP
+- SuYong
 - Redstone
 - Scripter
 - tive
