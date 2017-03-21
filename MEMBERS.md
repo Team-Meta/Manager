@@ -9,7 +9,7 @@ Bleeding Edge | 2016.07(ReDev 편입) - 2016.08 |
 Blue Duck(=포도씨) | 2016.02 - 2016.08 | 자퇴
 Indvel | 2016.07 - 2016.12 | 자퇴
 Mine Star | - 2016.06 |
-PlanP | - |
+SuYong | - |
 Redstone | - |
 Retro(=Seize) | 2016.02 - 2016.10 |
 Rigel | 2017.01 - 2017.02 |
@@ -114,7 +114,7 @@ Date | URL
 -----|-----
 2016.06 | X
 
-### PlanP ( - )
+### SuYong ( - )
 Date | URL
 -----|-----
 2016.06 | http://cafe.naver.com/minecraftdev/5433
