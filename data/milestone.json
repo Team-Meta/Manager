@@ -1,0 +1,38 @@
+{
+    "hello_world": {
+        date: "2016.01.20",
+        description: "Meta 설립"
+    },
+    "act_free_project": {
+        date: "2016.01.20",
+        description: "자율 실적제 시행"
+    },
+    "recruit_first": {
+        date: "2017.02.03",
+        description: "1차 공채"
+    },
+    "act_compulsory_project": {
+        date: "2017.05.28",
+        description: "의무 실적제 시행"
+    },
+    "recruit_second": {
+        date: "2017.06.14",
+        description: "2차 공채"
+    },
+    "recruit_third": {
+        date: "2017.12.20",
+        description: "3차 공채"
+    },
+    "anniversary": {
+        date: "2017.01.20",
+        description: "Meta 1주년"
+    },
+    "impeach_adagio": {
+        date: "2017.02.05",
+        description: "팀장 Adagio 탄핵"
+    },
+    "act_odd_num_project": {
+        date: "2017.03.29",
+        description: "홀수달 실적제 시행"
+    }
+}
