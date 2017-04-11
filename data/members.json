@@ -1,10 +1,26 @@
 {
-    "Astro": {},
-    "SuYong": {},
-    "Redstone": {},
-    "Scripter": {},
-    "tive": {},
-    "만동이": {},
-    "물외한인": {},
-    "4계절": {}
+    "Astro": {
+        "telegram": "@psj1026"
+    },
+    "SuYong": {
+        "telegram": "@Su_Yong"
+    },
+    "Redstone": {
+        "telegram": "@ljuwon"
+    },
+    "Scripter": {
+        "telegram": "@Scripter36"
+    },
+    "tive": {
+        "telegram": "@kr_tive"
+    },
+    "만동이": {
+        "telegram": "@webtopid"
+    },
+    "물외한인": {
+        "telegram": "@Cloneable"
+    },
+    "4계절": {
+        "telegram": "@FourSeasonTG"
+    }
 }
