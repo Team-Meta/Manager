@@ -7,5 +7,7 @@
 ![logo_1](https://github.com/Team-Meta/Manager/blob/master/res/img_logo_1.png)
 ### 2016.09 - 2017.03
 ![logo_2](https://github.com/Team-Meta/Manager/blob/master/res/img_logo_2.png)
-### 2017.04 - 
+### 2017.04 - 2017.05
 ![logo_3](https://github.com/Team-Meta/Manager/blob/master/res/img_logo_3.png)
+### 2017.06 - 
+![logo_4](https://github.com/Team-Meta/Manager/blob/master/res/img_logo_4.png)
